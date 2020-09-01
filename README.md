@@ -1,0 +1,2 @@
+# projects
+This was an assignment problem I completed in one of my predictive analytics courses. This particular problem is about creating a k nearest neighbors predictive model. After partitioning the data into a training set and validation set and converting categorical variables, I had analytic platform solver decide on the best k (this was 4). This model turned out quite accurate. I also ran this again using a test set as well.
